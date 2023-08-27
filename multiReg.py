@@ -16,4 +16,4 @@ regr.fit(x,y)
 pridictedc02=regr.predict([[3300,1300]])
 print("CO2 will be ", pridictedc02) 
 # let me print the coeficient
-# print("The coeficient  will be ", regr.coef_) 
+print("The coeficient  will be ", regr.coef_) 
